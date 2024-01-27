@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\Filip\source\repos\vj11\vj11\Source.c(47,18): warning C4020: 'inorder': too many actual parameters
+C:\Users\Filip\source\repos\vj11\vj11\Source.c(48,5): warning C4013: 'replace' undefined; assuming extern returning int
+C:\Users\Filip\source\repos\vj11\vj11\Source.c(49,19): warning C4020: 'inorder': too many actual parameters
+C:\Users\Filip\source\repos\vj11\vj11\Source.c(142,38): warning C4029: declared formal parameter list different from definition
+C:\Users\Filip\source\repos\vj11\vj11\Source.c(104): warning C4716: 'delete': must return a value
+  vj11.vcxproj -> C:\Users\Filip\source\repos\vj11\x64\Debug\vj11.exe
