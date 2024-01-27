@@ -1,0 +1,7 @@
+﻿  zad.c
+C:\Users\Filip\source\repos\fajlovi\fajlovi\zad.c(105): warning C4715: 'createStack': not all control paths return a value
+C:\Users\Filip\source\repos\fajlovi\fajlovi\zad.c(96): warning C4715: 'push': not all control paths return a value
+C:\Users\Filip\source\repos\fajlovi\fajlovi\zad.c(117): warning C4715: 'cdDir': not all control paths return a value
+C:\Users\Filip\source\repos\fajlovi\fajlovi\zad.c(127): warning C4715: 'createmkdir': not all control paths return a value
+C:\Users\Filip\source\repos\fajlovi\fajlovi\zad.c(138): warning C4715: 'mkdir': not all control paths return a value
+  fajlovi.vcxproj -> C:\Users\Filip\source\repos\fajlovi\x64\Debug\fajlovi.exe
